@@ -57,11 +57,7 @@ npm install
 # Executar o projeto
 npx expo start
 
----
 
-### 👨‍💻 Autor
-
-Desenvolvido por **Gabriel Magalhães**
 
 🔗 GitHub: https://github.com/GbraMag
 
