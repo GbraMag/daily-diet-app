@@ -57,8 +57,3 @@ npm install
 # Executar o projeto
 npx expo start
 
-
-
-🔗 GitHub: https://github.com/GbraMag
-
- 
