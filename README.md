@@ -38,7 +38,7 @@ O **Daily Diet** foi criado com o objetivo de ajudar o usuário a manter o contr
 - TypeScript
 - Styled-components
 - React Navigation
-- AsyncStorage
+- AsyncStorage (@react-native-async-storage/async-storage)
 
 ---
 
@@ -56,3 +56,13 @@ npm install
 
 # Executar o projeto
 npx expo start
+
+'''
+
+### 👨‍💻 Autor
+
+Desenvolvido por **Gabriel Magalhães**
+
+🔗 GitHub: https://github.com/GbraMag
+
+ 
